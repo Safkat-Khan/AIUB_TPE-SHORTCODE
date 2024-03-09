@@ -16,6 +16,7 @@ Folder Structure
 The repository is organized with the following folder structure:
 
 Copy code
+
 ├── TestPlan1
 │   ├── TestCase1.py
 │   ├── TestCase2.py
@@ -25,3 +26,9 @@ Copy code
 │   ├── TestCase2.py
 │   └── ...
 └── ...
+Contributing
+We welcome contributions from university testers! Please follow these guidelines:
+
+Report bugs or issues.
+Suggest improvements or new shortcut codes.
+Make pull requests to the repository.
