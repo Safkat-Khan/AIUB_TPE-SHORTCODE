@@ -9,3 +9,9 @@ Collaboration and sharing among university testers.
 Usage
 To use the shortcut codes:
 
+Clone or download this repository to your local machine.
+Set up the shortcut codes in your preferred Integrated Development Environment (IDE) or command-line interface.
+Execute the shortcut codes for various test plan scenarios.
+Folder Structure
+The repository is organized with the following folder structure:
+
