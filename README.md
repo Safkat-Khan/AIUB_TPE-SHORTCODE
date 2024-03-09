@@ -15,3 +15,13 @@ Execute the shortcut codes for various test plan scenarios.
 Folder Structure
 The repository is organized with the following folder structure:
 
+Copy code
+├── TestPlan1
+│   ├── TestCase1.py
+│   ├── TestCase2.py
+│   └── ...
+├── TestPlan2
+│   ├── TestCase1.py
+│   ├── TestCase2.py
+│   └── ...
+└── ...
