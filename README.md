@@ -40,7 +40,7 @@ For questions or feedback, please contact:
 
 John Doe
 Jane Smith
-
+Acknowledgements
 We would like to thank all contributors and supporters of this repository for their valuable input and contributions.
 
 Version History
