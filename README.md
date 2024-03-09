@@ -1,4 +1,5 @@
-AIUB TPE Shortcut Code Repository
+
+University TPE Shortcut Code Repository
 Welcome to the University Test Plan Execution (TPE) Shortcut Code Repository! This repository is designed to store and manage shortcut codes for executing test plans efficiently at our university.
 
 Features
@@ -16,7 +17,6 @@ Folder Structure
 The repository is organized with the following folder structure:
 
 Copy code
-
 ├── TestPlan1
 │   ├── TestCase1.py
 │   ├── TestCase2.py
@@ -32,3 +32,32 @@ We welcome contributions from university testers! Please follow these guidelines
 Report bugs or issues.
 Suggest improvements or new shortcut codes.
 Make pull requests to the repository.
+License
+This repository is licensed under the MIT License. See the LICENSE file for details.
+
+Contact Information
+For questions or feedback, please contact:
+
+John Doe
+Jane Smith
+
+We would like to thank all contributors and supporters of this repository for their valuable input and contributions.
+
+Version History
+v1.0 (January 1, 2022): Initial release with basic shortcut codes.
+v1.1 (February 1, 2022): Added new test plan scenarios and bug fixes.
+FAQs
+Q: How do I report a bug?
+A: Please open an issue on the repository's GitHub page and provide detailed information about the bug.
+
+Q: Can I suggest a new shortcut code?
+A: Yes, we encourage you to submit your suggestions through GitHub pull requests.
+
+Examples
+Here are some examples of how to use the shortcut codes:
+
+Execute TestPlan1.TestCase1.py to run the first test case in Test Plan 1.
+Use TestPlan2.TestCase2.py for the second test case in Test Plan 2.
+References
+Test Plan Execution Documentation
+Tutorial: Getting Started with TPE
